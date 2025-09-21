@@ -45,8 +45,8 @@ spring.datasource.password=<PASSWORD>
 
 ---
 ## Personal Information 👻
-- STUDENT_ID : 2301671052
-- NAME       : Sithira Roneth
+- STUDENT_ID : 2301671125
+- NAME       : M.W.V.D.M.J. Wijewickrama
 - BATCH      : GSDE-67 (Panadura)
-- CONTACT NO : 070 406 8026
-- EMAIL      : sithiraroneth@gmail.com
+- CONTACT NO : 0740083688
+- EMAIL      : minurawije@gmail.com
