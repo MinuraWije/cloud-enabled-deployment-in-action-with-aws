@@ -35,7 +35,7 @@ spring.datasource.password=<PASSWORD>
 ## 🔧 How to Use This Repository ### 
 
 - Clone the repository bash git
-  ``` clone https://github.com/SithiraRoneth/cloud-enabled-deployment-.git ```
+  ``` clone https://github.com/MinuraWije/cloud-enabled-deployment-in-action-with-aws.git ```
 - cd cloud-gcp-deployment
 
 ---
