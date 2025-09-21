@@ -41,7 +41,7 @@ spring.datasource.password=<PASSWORD>
 ---
 
 ## 📽️ Configured Video
-- watch here : https://drive.google.com/file/d/1Z8vIKPWhjkIzzBOeMvkzp7sb54GAncPs/view?usp=drive_link
+- watch here : https://drive.google.com/file/d/1uVxCnLCUZDUOEgAbQ_khMnWec4U4BaXZ/view?usp=sharing
 
 ---
 ## Personal Information 👻
